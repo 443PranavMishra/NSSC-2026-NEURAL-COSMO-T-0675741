@@ -41,7 +41,7 @@ The disclosed contamination spans three categories: **semantic splicing** (splic
 | File | Description |
 |---|---|
 | `NSSC2026_HiRISE_Anomaly_Detection.ipynb` | Full, documented Jupyter notebook — all code, markdown headers per question/sub-question, and executed outputs |
-| `NEURAL_COSMO_REPORT.pdf` | Complete PDF report — architecture, statistical justification, plots, tables, heatmaps, geological hypotheses, and the engineering changelog |
+| `NEURAL_COSMO_REPORT.pdf` | Complete PDF report — architecture, statistical justification, plots, tables, heatmaps, geological hypotheses, and the engineering changelog (see **pages 21–24**) |
 | `Novelty_Scores.csv` | Novelty score and flagged status for all 10,422 crops (`filename`, `novelty_score`, `flagged`) |
 | `README.md` | This file |
 
